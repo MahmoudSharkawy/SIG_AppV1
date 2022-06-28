@@ -1,8 +1,12 @@
 import javax.swing.*;
 
 public class Sig_Main {
-    private JTable table1;
-    private JButton createNewInvoiceButton;
+    private JTable InvoiceList;
     private JButton deleteInvoiceButton;
-    private JPanel Sigmain;
+    private JPanel SIGMain;
+    private JButton createNewInvoice;
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }
