@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02daf5a3-e3c3-4f95-8c0c-1fd6928b0b48" name="Changes" comment="2commit">
-      <change afterPath="$PROJECT_DIR$/src/SalesInvoice.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalesInvoice.java" afterDir="false" />
+    <list default="true" id="02daf5a3-e3c3-4f95-8c0c-1fd6928b0b48" name="Changes" comment="maincommit">
+      <change afterPath="$PROJECT_DIR$/src/SIGApp.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SIGApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreateNewInvoice.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreateNewInvoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sig_Main.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sig_Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalesInvoice.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalesInvoice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,14 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SalesInvoice">
+    <configuration name="SalesInvoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SalesInvoice" />
+      <module name="SIG_V1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SIG_V1" />
@@ -62,6 +66,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SalesInvoice" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656401078717</updated>
       <workItem from="1656401080711" duration="3108000" />
-      <workItem from="1656410083185" duration="4427000" />
+      <workItem from="1656410083185" duration="6591000" />
     </task>
     <task id="LOCAL-00001" summary="3dcommit">
       <created>1656401738010</created>
@@ -102,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656403219254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="maincommit">
+      <created>1656507532500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656507532500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +139,8 @@
     <MESSAGE value="3dcommit" />
     <MESSAGE value="1commit" />
     <MESSAGE value="2commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2commit" />
+    <MESSAGE value="maincommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="maincommit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SIG_V1$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1656407901547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
