@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02daf5a3-e3c3-4f95-8c0c-1fd6928b0b48" name="Changes" comment="maincommit">
-      <change afterPath="$PROJECT_DIR$/src/SIGApp.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SIGApp.java" afterDir="false" />
+    <list default="true" id="02daf5a3-e3c3-4f95-8c0c-1fd6928b0b48" name="Changes" comment="Jframecommit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalesInvoice.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalesInvoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SIGApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SIGApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,14 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SalesInvoice">
+  <component name="RunManager" selected="Application.SIGApp">
+    <configuration name="SIGApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SIGApp" />
+      <module name="SIG_V1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalesInvoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SalesInvoice" />
       <module name="SIG_V1" />
@@ -68,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SIGApp" />
         <item itemvalue="Application.SalesInvoice" />
       </list>
     </recent_temporary>
@@ -81,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656401078717</updated>
       <workItem from="1656401080711" duration="3108000" />
-      <workItem from="1656410083185" duration="6591000" />
+      <workItem from="1656410083185" duration="8444000" />
     </task>
     <task id="LOCAL-00001" summary="3dcommit">
       <created>1656401738010</created>
@@ -118,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656507532500</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Jframecommit">
+      <created>1656516353360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656516353360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Jframecommit">
+      <created>1656516399958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656516399958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +159,8 @@
     <MESSAGE value="1commit" />
     <MESSAGE value="2commit" />
     <MESSAGE value="maincommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="maincommit" />
+    <MESSAGE value="Jframecommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jframecommit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SIG_V1$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1656407901547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

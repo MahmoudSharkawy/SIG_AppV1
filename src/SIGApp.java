@@ -9,6 +9,7 @@ public class SIGApp extends JFrame {
         this.pack();
     }
     public static void main(String[] args) {
-        JFrame frame = new SIGApp("Sales Invoice Generator - SIG | Beta");
+        JFrame frame = new SIGApp("SIG - Sales Invoice Generator| Beta");
+        frame.setVisible(true);
     }
 }
